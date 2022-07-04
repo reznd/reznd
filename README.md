@@ -13,6 +13,7 @@ print("Olá! Sou o Gabriel Rezende! 👋")
   <img align="center" alt="Rezende-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rezende-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rezende-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> 
+    <img align="center" alt="Rezende-SQL" height="30" width="40" src="https://img.icons8.com/color/344/javascript--v1.png"> 
 </div>
 
 <div align="center">
