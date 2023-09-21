@@ -14,9 +14,6 @@ print("Hello! I'm Gabriel Rezende! 👋")
   <img align="center" alt="Rezende-JavaScript" height="30" width="40" src="https://img.icons8.com/color/344/javascript--v1.png"> 
 </div>
 
-
-
-  
   <div> 
   <a href="https://www.youtube.com/channel/UCja7g02AkVU_ojnGY3T3I-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
