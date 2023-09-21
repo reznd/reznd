@@ -1,19 +1,19 @@
-print("Olá! Sou o Gabriel Rezende! 👋")
+print("Hello! I'm Gabriel Rezende! 👋")
 
 <!--        -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
-- 🔭 Atualmente trabalhando no Grupo Aliare como Analista de Banco de dados SQL
-- 🌱 Atualmente estou estudando Python para expandir meus conhecimentos em dados.
-- 💬 Me pergunte sobre SQL, SQL Server, dados e como é trabalhar em um ERP de gestão do AGRO🌱 que move o mundo!
-- 😄 Ele/Dele
-- ⚡ Fato curioso: Já cheguei a praticar 4 tipos de esportes na semana e nunca quebrei um osso!
+- 🔭 Currently working at Indeemo as 2nd Line Database Support Engineer, QA Analyst, Software Engineer!
+- 🌱 Step by step
+- 💬 Ask me about SQL, SQL Server, data, and what it's like to work in an ERP for AGRO🌱 that powers the world!
+- 😄 He/Him
+- ⚡ Fun fact: I've practiced 4 types of sports in a week and never broken a bone!
 <div style="display: inline_block"><br>
   <img align="center" alt="Rezende-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rezende-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rezende-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rezende-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"> 
-    <img align="center" alt="Rezende-SQL" height="30" width="40" src="https://img.icons8.com/color/344/javascript--v1.png"> 
+  <img align="center" alt="Rezende-JavaScript" height="30" width="40" src="https://img.icons8.com/color/344/javascript--v1.png"> 
 </div>
 
 <div align="center">
@@ -34,4 +34,3 @@ print("Olá! Sou o Gabriel Rezende! 👋")
   ![Snake animation](https://github.com/reznd/reznd/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-          
